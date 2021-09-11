@@ -6,7 +6,7 @@ The shape can be a circle, a rectangle or a triangle.*/
 
 int main(void)
 {
-    float width, height, area, rad, cir_area; // Declaration of variables
+    float width, height, area, rad; // Declaration of variables
     int s; // Object shape
     float pi_approx = 3.1415; // Pi approximation
 
